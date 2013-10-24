@@ -1,0 +1,14 @@
+{
+  "name": "is-mobile",
+  "repo": "whyohwhyamihere/is-mobile",
+  "description": "Component to return a boolean value determining if a device is mobile or not",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
